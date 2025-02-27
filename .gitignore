@@ -25,3 +25,4 @@ dist-ssr
 
 # aws cdk
 aws-cdk/cdk.out
+aws-cdk/**/*.js
